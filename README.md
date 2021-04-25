@@ -36,7 +36,7 @@ The original datasets can be downloaded from:
 - Put the two datasets in the same directory as the Preprocessing.ipynb file
 - Run the code (including cleaning, defining threshold and merging)
 - Get ***steam_games.csv*** and ***steam_cleaned_less.csv*** (the only difference of the two files is that *steam_cleaned_less.csv* drops the columns which contains NA values)  
-=== OR ===
+=== OR ===  
 download the preprocessed dataset from this link https://1drv.ms/u/s!AsFAl5N0CEpEgZw52WtyCyXki5sjyw?e=yEpAPY
 
 # How to Run
