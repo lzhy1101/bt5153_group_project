@@ -35,11 +35,13 @@ The original datasets can be downloaded from:
 ### Pre-processing
 - Put the two datasets in the same directory as the Preprocessing.ipynb file
 - Run the code (including cleaning, defining threshold and merging)
-- Get ***steam_games.csv*** and ***steam_cleaned_less.csv*** (the only difference of the two files is that *steam_cleaned_less.csv* drops the columns which contains NA values)
+- Get ***steam_games.csv*** and ***steam_cleaned_less.csv*** (the only difference of the two files is that *steam_cleaned_less.csv* drops the columns which contains NA values)  
+=== OR ===
+download the preprocessed dataset from this link https://1drv.ms/u/s!AsFAl5N0CEpEgZw52WtyCyXki5sjyw?e=yEpAPY
 
 # How to Run
 (1) Create a folder name *Cleaned data* in the same directory as the three ipython notebook file
 
-(2) Make sure the two CSV files *steam_cleaned_less.csv* and *steam_games.csv* are inside the *Cleaned data* folder
+(2) Put the two CSV files *steam_cleaned_less.csv* and *steam_games.csv* are inside the *Cleaned data* folder
 
 (3) Run each file with Jupyter notebook
